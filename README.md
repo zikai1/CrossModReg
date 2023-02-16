@@ -1,1 +1,1 @@
-# Cross-Modality-Registration
+# Cross-Modality Registration
